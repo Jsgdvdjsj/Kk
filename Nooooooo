@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdmBrookhavenScripts/TemplariosHubRelease1/main/TemplariosHubRelease1.txt"))()
